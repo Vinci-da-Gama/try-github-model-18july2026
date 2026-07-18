@@ -16,7 +16,7 @@ const CONFIG = Object.freeze({
 
   temperature: 0.7,
   topP: 1,
-  maxCompletionTokens: 16384,
+  maxCompletionTokens: 16384, // 改成你想要的最大上下文输出长度
 });
 
 const SYSTEM_PROMPT =
