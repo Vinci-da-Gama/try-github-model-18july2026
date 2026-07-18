@@ -9,7 +9,7 @@ import { performance } from "node:perf_hooks";
 const CONFIG = Object.freeze({
   apiKey: "hello_world", // 改成你的密钥
   baseURL: "https://models.github.ai/inference",
-  model: "openai/gpt-4.1",
+  model: "openai/gpt-4.1", // 改成你想要使用的模型
 
   timeout: 30000,
   maxRetries: 2,
