@@ -1,0 +1,10 @@
+{
+  "name": "trygitmodel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "openai": "^6.48.0"
+  }
+}
