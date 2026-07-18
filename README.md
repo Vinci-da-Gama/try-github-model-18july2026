@@ -37,7 +37,7 @@ git clone https://github.com/your-username/trygitmodel.git
 cd trygitmodel
 
 # 2. Install dependencies
-npm install
+yarn install
 
 # 3. Set your API key (edit trygitmodel.js or use env)
 #    Open trygitmodel.js and change CONFIG.apiKey to your GitHub Models key
